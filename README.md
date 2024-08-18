@@ -14,7 +14,3 @@
 2. Установите зависимости: `pip install -r requirements.txt`
 3. Примените миграции: `python manage.py migrate`
 4. Запустите сервер: `python manage.py runserver`
-
-## Лицензия
-
-Этот проект лицензирован под MIT License
