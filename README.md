@@ -1,4 +1,4 @@
-# Django Forum
+# Django Forum 
 
 Это проект форума, построенного с использованием Django.
 
